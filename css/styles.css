@@ -51,7 +51,7 @@ h2 {
 }
 
 .intro .container {
-	margin-top: 180px;
+	margin-top: 80px;
 }
 
 .intro img {
@@ -151,7 +151,7 @@ input:focus {
 }
 
 .footer {
-	padding-top: 10%;
+	padding-top: 5%;
 	margin: 0 auto;
 }
 
@@ -236,3 +236,6 @@ input:focus {
         opacity: 1;
     }
 }
+
+.coming-soon { font-style:italic;
+			   color:gray }
